@@ -1,4 +1,4 @@
 # Expert-System-Forward-Chaining
-anggota:
-Muhammad Fauzan Hernadi (2201190)
+anggota:\n
+Muhammad Fauzan Hernadi (2201190)\n
 Sakhron Isyama Hendra (2202296)
